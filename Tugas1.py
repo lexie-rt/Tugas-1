@@ -35,4 +35,4 @@ if gaji_pokok :
     print ("----------------------------------------")
     print (f"total gaji diterima:RP {total_gaji:,.0f}")
 else:
-    print("\nGolongan tidak valid! Harap masukkan A, B, atau C.") 
+    print("\nGolongan tidak valid! Harap masukkan A, B, atau C.")  
